@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akash910971@gmail.com**
 
-- ⚡ Fun fact **learn rect before javaScript**
+- ⚡ Fun fact **learn react before javaScript**
 
 <h3 align="left">Connect with me:</h3>
 
