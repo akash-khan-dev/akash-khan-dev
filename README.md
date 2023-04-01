@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, React.Js**
 
-- 📫 How to reach me **akash910971@gamil.com**
+- 📫 How to reach me **akash910971@gmail.com**
 
 - ⚡ Fun fact **learn rect before javaScript**
 
